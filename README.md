@@ -9,7 +9,5 @@ Ainda nao funcionou.
 - Luciana
 - Luiz
 ---
+...
 
-
-----
-Eu que mando nessa bagaça
